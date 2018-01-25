@@ -1,1 +1,2 @@
-put "Hello!"
+p 'Hello! Ruby!'
+p `hostname`.strip
